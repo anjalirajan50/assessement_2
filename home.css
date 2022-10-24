@@ -1,0 +1,121 @@
+body {
+    background-color: #fff;
+    color: black;
+    font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    margin-bottom: 50px;
+}
+p {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+h1 {
+    font-family: 'Crete Round', serif;
+    font-weight: bold;
+    color: rgb(12, 10, 10);
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+h2 {
+    font-weight: 300;
+    color: rgb(222, 231, 55);
+    font-size: 55px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 0 0;
+    
+}
+h3 {
+    
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+
+header {
+    height: 120px;
+}
+header h1 {
+    float: left;
+    margin-top: 32px;
+}
+header h1 .color {
+    color: #FFBF00;
+}
+header nav {
+    float: right;
+}
+header nav ul li {
+    
+    display: inline-block;
+    margin-top: 40px;
+}
+header nav ul li a {
+    color: black;
+    font-weight: bold;
+    display: block;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #444;
+}
+a:hover {
+    color: #293d41;
+}
+strong {
+    font-weight: bold;
+    color: FFE900;
+}
+
+.clear {
+    clear: both;
+}
+.wrapper {
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 940px;
+}
+#image {
+    height: 580px;
+    padding-top: 1px;
+    background: #e8eced url(trav.webp) no-repeat center;
+}
+#image h2 {
+    margin: 180px 0 40px 0;
+}
+.button-1 {
+    display: block;
+    text-align: center;
+    background: rgb(222, 231, 55);
+    border-radius: 3px;
+    color: rgb(12, 11, 11);
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    margin: 0 auto;
+}
+.button-1:hover {
+    background-color:black;
+    color: #fff;
+}
+#places ul {
+    margin: 80px 0;
+    list-style-type: none;
+    
+}
+#places ul li {
+    width: 350px;
+    margin-top: auto;
+    margin-bottom: 60px;
+    float: left;
+    margin-right: 50px;
+    text-align: center;
+    border: 1px solid rgb(211, 215, 131);
+    
+}
