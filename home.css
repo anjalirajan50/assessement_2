@@ -27,7 +27,7 @@ h2 {
 }
 h3 {
     
-    color: black;
+    color: rgb(11, 11, 13);
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -110,7 +110,7 @@ strong {
     
 }
 #places ul li {
-    width: 350px;
+    width: 28%;
     margin-top: auto;
     margin-bottom: 60px;
     float: left;
